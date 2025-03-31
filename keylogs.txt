@@ -1,0 +1,18 @@
+Mouse Position: x=450, y=458, Time: 2024-12-17T11:27:41.353Z
+Mouse Position: x=685, y=393, Time: 2024-12-17T11:27:42.358Z
+Key Pressed: h (h), Time: 2024-12-17T11:27:42.730Z
+Key Pressed: e (e), Time: 2024-12-17T11:27:43.034Z
+Key Pressed: l (l), Time: 2024-12-17T11:27:43.235Z
+Mouse Position: x=685, y=393, Time: 2024-12-17T11:27:43.358Z
+Key Pressed: l (l), Time: 2024-12-17T11:27:43.391Z
+Key Pressed: o (o), Time: 2024-12-17T11:27:43.504Z
+Key Pressed:   (space), Time: 2024-12-17T11:27:43.724Z
+Key Pressed: w (w), Time: 2024-12-17T11:27:43.844Z
+Key Pressed: o (o), Time: 2024-12-17T11:27:44.003Z
+Key Pressed: r (r), Time: 2024-12-17T11:27:44.143Z
+Key Pressed: l (l), Time: 2024-12-17T11:27:44.335Z
+Mouse Position: x=685, y=393, Time: 2024-12-17T11:27:44.369Z
+Key Pressed: d (d), Time: 2024-12-17T11:27:44.507Z
+Mouse Position: x=685, y=393, Time: 2024-12-17T11:27:45.380Z
+Mouse Position: x=321, y=493, Time: 2024-12-17T11:27:46.381Z
+Key Pressed:  (c), Time: 2024-12-17T11:27:47.302Z
